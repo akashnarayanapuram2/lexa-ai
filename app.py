@@ -732,7 +732,7 @@ def _render_risk_overview(clauses: list, summary: dict):
         return f"background-color: {colors_map.get(val, 'white')}"
 
     st.dataframe(
-        df.style.applymap(color_risk, subset=["Risk Level"]),
+        df.style.map(color_risk, subset=["Risk Level"]),
         use_container_width=True,
         height=400,
     )
