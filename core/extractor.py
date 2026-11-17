@@ -8,6 +8,8 @@ import fitz  # PyMuPDF
 from docx import Document
 import io
 
+from streamlit import text
+
 
 def extract_text_from_pdf(file_bytes: bytes) -> str:
     """Extract and clean text from PDF bytes."""
@@ -58,8 +60,8 @@ def split_into_clauses(text: str) -> list[dict]:
     ]
 
     # Try to find clause boundaries
-    combined = '|'.join(f'({p})' for p in patterns)
-    matches = list(re.finditer(combined, text))
+    combined = '|'.join(f'({p.replace("(?m)", "")})' for p in patterns)
+    matches = list(re.finditer(combined, text, re.MULTILINE)) 
 
     clauses = []
     if not matches:
