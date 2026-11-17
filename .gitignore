@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+
+# API Keys - NEVER push this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FAISS index cache
+knowledge_base/faiss_index.pkl
+
+# Uploaded files
+uploads/
+outputs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

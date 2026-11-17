@@ -1,0 +1,115 @@
+LEGAL CONTRACT KNOWLEDGE BASE
+================================
+
+## TERMINATION CLAUSES
+Termination clauses define conditions under which a contract can be ended. Key risks include:
+- Termination "for convenience" without cause allows one party to exit without liability — this is highly one-sided if only one party has this right.
+- Inadequate notice periods (less than 30 days) can cause operational disruption.
+- Automatic termination triggers (e.g., insolvency, change of control) can catch parties off guard.
+- Best practice: Mutual termination rights, reasonable notice periods (30–90 days), and clear cure periods for breach.
+- Watch for clauses allowing termination "immediately" or "without notice" — these are High risk.
+
+## PAYMENT CLAUSES
+Payment terms govern when, how, and how much is paid. Key risks:
+- Vague payment milestones can lead to disputes about when payment is due.
+- Late payment penalties over 2% per month may be deemed unconscionable.
+- Clauses allowing unilateral price changes are dangerous.
+- "Non-refundable deposits" of large sums without deliverable guarantees are risky.
+- Best practice: Define payment terms precisely (Net 30, Net 60), specify currency, and include dispute resolution for invoices.
+
+## CONFIDENTIALITY / NDA CLAUSES
+Confidentiality clauses protect sensitive information. Key risks:
+- Overly broad definitions of "Confidential Information" can restrict legitimate business activities.
+- Perpetual confidentiality obligations (no time limit) may be unenforceable in some jurisdictions.
+- Inadequate carve-outs for publicly available information create compliance issues.
+- One-sided NDAs (only protecting one party) increase the other party's exposure.
+- Reasonable NDA duration: 2–5 years post-agreement. Perpetual obligations for trade secrets may be acceptable.
+
+## LIABILITY CLAUSES
+Limitation of liability clauses cap damages one party can claim. Key risks:
+- Blanket exclusions of consequential/indirect damages may leave injured parties uncompensated.
+- Caps set below the contract value (e.g., 1 month's fees) may be grossly insufficient.
+- "In no event shall X be liable" for any damages is an extreme risk to the other party.
+- Mutual liability caps are more balanced than one-sided ones.
+- Best practice: Caps should be reasonable relative to contract value; carve out fraud, gross negligence, and willful misconduct.
+
+## INDEMNIFICATION CLAUSES
+Indemnity clauses require one party to cover another's losses. Key risks:
+- Broad indemnification without caps creates unlimited financial exposure.
+- "Defend, indemnify, and hold harmless" obligations may require paying the other side's legal fees.
+- One-sided indemnities (only one party indemnifies) are inherently imbalanced.
+- Indemnities triggered by third-party claims can be very broad.
+- Best practice: Mutual indemnification for each party's own wrongdoing; require notice before assuming defense.
+
+## NON-COMPETE CLAUSES
+Non-compete clauses restrict future business activity. Key risks:
+- Geographic scope beyond where the company operates may be unenforceable.
+- Duration beyond 1–2 years post-employment/agreement is often unenforceable.
+- Overly broad definitions of "competing business" can restrict normal career activities.
+- Some jurisdictions (e.g., California) do not enforce non-competes at all.
+- Best practice: Narrow scope (specific role/industry), reasonable duration (6–12 months), limited geography.
+
+## INTELLECTUAL PROPERTY CLAUSES
+IP clauses define who owns created work. Key risks:
+- "Work for hire" clauses may transfer all IP rights including pre-existing work.
+- Broad assignment clauses (assigning future IP) can affect employee/contractor's own inventions.
+- Perpetual, royalty-free licenses given to one party may undervalue IP.
+- Failure to carve out pre-existing IP before contract is a common mistake.
+- Best practice: Define pre-existing IP upfront; ensure assignment is limited to work product under the contract.
+
+## RENEWAL CLAUSES
+Auto-renewal clauses automatically extend contracts. Key risks:
+- Short notice windows for cancellation (e.g., must notify 60 days before term end) are easy to miss.
+- Multi-year auto-renewals lock parties into long commitments.
+- Price escalation on renewal without cap is risky.
+- Best practice: Automatic renewal with reasonable notice windows (30–60 days), price increase caps (e.g., CPI or 5% max).
+
+## DISPUTE RESOLUTION CLAUSES
+Dispute resolution clauses specify how conflicts are resolved. Key risks:
+- Mandatory arbitration clauses waive the right to jury trial.
+- Venue selection far from one party's location creates access barriers.
+- Loser-pays fee shifting can chill legitimate dispute resolution.
+- Class action waivers prevent collective litigation.
+- Best practice: Mutual jurisdiction selection, consider mediation before arbitration, specify arbitration rules (AAA/ICC).
+
+## GOVERNING LAW CLAUSES
+Governing law clauses determine which jurisdiction's laws apply. Key risks:
+- Choice of foreign law may impose obligations unfamiliar to one party.
+- Different jurisdictions have very different rules on enforceability of certain clauses.
+- US state differences: California has strong employee/contractor protections; Delaware is corporate-friendly.
+- Best practice: Choose a neutral or mutually convenient jurisdiction; ensure both parties understand applicable law.
+
+## FORCE MAJEURE CLAUSES
+Force majeure excuses performance during extraordinary events. Key risks:
+- Very narrow force majeure definitions may not cover modern disruptions (pandemics, cyberattacks).
+- Very broad definitions may allow parties to escape obligations too easily.
+- No notice requirements or termination triggers need careful drafting.
+- Best practice: List specific events; include notice requirements; limit duration before termination right arises.
+
+## WARRANTY AND REPRESENTATION CLAUSES
+Warranties are promises about the subject of the contract. Key risks:
+- "As-is" disclaimers eliminate all implied warranties — seller bears no responsibility for defects.
+- Overly broad warranties can expose a party to unlimited claims.
+- Representations about future performance (forward-looking) are highly risky.
+- Best practice: Limit warranty period; specify remedy for breach of warranty; exclude consequential damages from warranty claims.
+
+## ASSIGNMENT CLAUSES
+Assignment allows transferring contract rights/obligations to a third party. Key risks:
+- One-sided assignment rights (only one party can assign) creates imbalance.
+- Assignment without consent in M&A situations can disrupt business.
+- Silent assignment clauses (no restriction) may allow the contract to be sold.
+- Best practice: Require written consent for assignment; allow assignment to affiliates or in M&A with notice.
+
+## GENERAL RISK INDICATORS
+Red flags that elevate risk in any clause:
+- "Sole discretion" — no accountability for decisions
+- "Without notice" — removes right to respond
+- "Irrevocable" — cannot be undone even if circumstances change
+- "In perpetuity" or "forever" — unlimited time obligation
+- "Worldwide" — unlimited geographic scope
+- "Unlimited" combined with liability or indemnity
+- Asymmetric language (rights for one party, obligations for the other)
+- Missing definitions for key terms (ambiguity creates legal risk)
+- Short cure periods (less than 10 days) for alleged breach
+
+DISCLAIMER: This knowledge base is for informational and educational purposes only. It does not constitute professional legal advice. Always consult a qualified attorney for legal matters.

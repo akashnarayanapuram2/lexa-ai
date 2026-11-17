@@ -1,0 +1,45 @@
+SOFTWARE LICENSE AND SERVICE AGREEMENT
+
+This Software License and Service Agreement ("Agreement") is entered into as of January 1, 2024, between TechCorp Solutions Ltd., a company incorporated in Delaware ("Licensor"), and ClientCo Inc., a company incorporated in California ("Licensee").
+
+1. LICENSE GRANT
+Licensor hereby grants Licensee a non-exclusive, non-transferable, worldwide, irrevocable license to use the Software solely for Licensee's internal business purposes. Licensor reserves the right to modify the scope of this license at its sole discretion without notice.
+
+2. PAYMENT TERMS
+Licensee shall pay Licensor a monthly fee of $10,000, due within 15 days of invoice. All payments are non-refundable under any circumstances. Licensor may increase fees by up to 25% annually without Licensee's consent. Late payments accrue interest at 3% per month compounded monthly.
+
+3. CONFIDENTIALITY
+Both parties agree to keep Confidential Information strictly confidential in perpetuity. Licensee shall not disclose any information about the Software or its features to any third party. This obligation survives termination of this Agreement forever and shall bind Licensee's successors and assigns without limitation.
+
+4. LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DAMAGES WHATSOEVER, INCLUDING DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF THE SOFTWARE. LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED ONE DOLLAR ($1.00) REGARDLESS OF THE CAUSE OF ACTION.
+
+5. INDEMNIFICATION
+Licensee shall defend, indemnify, and hold harmless Licensor and its officers, directors, employees, and agents from and against any and all claims, damages, losses, costs, and expenses (including unlimited legal fees) arising out of or relating to Licensee's use of the Software, whether or not caused by Licensor's negligence or misconduct.
+
+6. TERMINATION
+Licensor may terminate this Agreement immediately and without notice at any time for any reason or no reason at all. Upon termination, Licensee forfeits all prepaid fees and must immediately cease use of the Software and destroy all copies. Licensee may not terminate this Agreement for any reason during the initial three-year term.
+
+7. NON-COMPETE
+During the term of this Agreement and for five (5) years following termination, Licensee agrees not to develop, market, sell, or support any software product or service that competes in any way with any product or service offered by Licensor, anywhere in the world. This restriction applies to all of Licensee's subsidiaries, affiliates, employees, and contractors.
+
+8. INTELLECTUAL PROPERTY
+All work product, modifications, improvements, and derivative works created by Licensee in connection with the Software shall automatically vest in Licensor. Licensee hereby assigns to Licensor all intellectual property rights in such works, including pre-existing intellectual property incorporated therein, without additional compensation.
+
+9. AUTOMATIC RENEWAL
+This Agreement automatically renews for successive one-year terms unless Licensee provides written notice of non-renewal at least 180 days prior to the end of the then-current term. Failure to provide timely notice shall be deemed consent to renewal and all associated fee increases.
+
+10. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by the laws of the Cayman Islands. Any disputes shall be resolved exclusively through binding arbitration in the Cayman Islands under Licensor's internal arbitration rules. Each party waives any right to a jury trial, class action, or other representative proceeding. The arbitrator's fees shall be borne entirely by Licensee.
+
+11. AMENDMENT
+Licensor may amend this Agreement at any time by posting updated terms on its website. Licensee's continued use of the Software after posting constitutes acceptance of all changes.
+
+12. ASSIGNMENT
+Licensor may assign this Agreement and all rights hereunder without Licensee's consent. Licensee may not assign any rights under this Agreement without Licensor's prior written consent, which Licensor may withhold in its sole discretion.
+
+13. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+14. FORCE MAJEURE
+Licensor shall not be liable for any failure or delay in performance due to circumstances beyond its reasonable control. However, Licensee's payment obligations shall not be excused by any force majeure event.
